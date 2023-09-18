@@ -13,7 +13,7 @@ public class Ejercicio1 {
         calculadora.setY(numero2);
 
         double resultado = calculadora.suma();
-        System.out.println("La suma es : " + resultado);
+        System.out.println("La suma es: " + resultado);
 
         scanner.close();
     }
